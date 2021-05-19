@@ -1,0 +1,64 @@
+{
+    "pets": [
+        {
+            "id": 0,
+            "name": "Silvia",
+            "img": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fd17fnq9dkz9hgj.cloudfront.net%2Fuploads%2F2012%2F11%2Fadopted-cat-281x211.jpg&imgrefurl=https%3A%2F%2Fwww.petfinder.com%2Fpet-adoption%2Fcat-adoption%2F&tbnid=OOZw06QxUIu9jM&vet=12ahUKEwiog6y7m9bwAhXVZt8KHc-rDxgQMygXegUIARD0AQ..i&docid=gc9qebuayt6b8M&w=281&h=212&q=cat%20adoption%20images&ved=2ahUKEwiog6y7m9bwAhXVZt8KHc-rDxgQMygXegUIARD0AQ",
+            "like": false,
+            "breed": "Domestic Shorthair",
+            "age": 5,
+            "info": "Neutered, House-trained, Shots up to date",
+            "story": "Silvia was rescued outside as a pregnant stray. She had 4 kittens the next day!  Silvia is very sweet and has a gentle personality."
+        },
+        {
+            "id": 1,
+            "name": "Buddy",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMCdjjRlUScZFc91njc9aywFkARfra6ug1bA&usqp=CAU",
+            "like": false,
+            "breed": "Mixed Breed",
+            "age": 1,
+            "info": "Neutered, Shots up to date",
+            "story": "Buddy is very playful and loves spending time with the other puppies in the play yard!  He likes people, too. Buddy, has a fine temperament, and he’s great to have around!"
+        },
+        {
+            "id": 2,
+            "name": "Charlie",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmwfNsflCzzyKVC3J_xmfEXpXP42x0xq99Sw&usqp=CAU",
+            "like": false,
+            "breed": "Pitbull",
+            "age": 3,
+            "info": "Neutered, Shots up to date",
+            "story": "Charlie loves being outside playing with other dogs, and he enjoys being with people, too.  Add to all this her great temperament, and you have a wonderful dog!"
+        },
+        {
+            "id": 3,
+            "name": "Chloe",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEhctAnJH2PN6clQim2zEkS8neORlYM_x8dQ&usqp=CAU",
+            "like": false,
+            "breed": "Yellow Lab",
+            "age": 8,
+            "info": "Neutered, Shots up to date",
+            "story": "Meet Chloe! This pretty lady is sweet but very nervous and is looking for a calm home with no kids or other animals. Chloe is on some meds for her anxiety,but has been very sweet meeting people at the shelter."
+        },
+        {
+            "id": 4,
+            "name": "Coda",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ73pGg-lvEa7PXV4vYJCR_f0IKhC0cBOokw&usqp=CAU",
+            "like": false,
+            "breed": "Husky",
+            "age": 3,
+            "info": "Neutered",
+            "story": "Meet Coda, like many Huskies, this handsome boy has size, strength and boundless energy and has proven to be too much dog for some prior owners. Coda needs an active home to burn some energy and keep him occupied."
+        },
+        {
+            "id": 5,
+            "name": "Bella",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSSDQIZoTDBH5rIMWe0_289-Ehqr013e3mA&usqp=CAU",
+            "like": false,
+            "breed": "Chihuahua",
+            "age": 2,
+            "info": "Neutered, Shots up to date",
+            "story": "Bella loves a fenced in yard to explore and good on a leash. She likes to play with toys, be with her people to cuddle and lay on their lap!"
+        }
+    ]
+}
